@@ -1,4 +1,4 @@
-# pychain
+# pychain   &nbsp; [![Codacy Badge](https://api.codacy.com/project/badge/Grade/43acdb22d1464652bb67540cddad8d21)](https://www.codacy.com/app/AdamHodgson/pychain?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdamHodgson/pychain&amp;utm_campaign=Badge_Grade)
 
 Basic implementation of a blockchain in python.
 
